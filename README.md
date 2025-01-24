@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o [Seu Nome] 👋
 
-<!--
-**luzka1/luzka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por criar soluções inovadoras! 🚀
 
-Here are some ideas to get you started:
+## 🌱 Atualmente estou aprendendo:
+- Desenvolvimento Full Stack
+- Algoritmos e Estruturas de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Fale comigo sobre:
+- JavaScript, React, Node.js
+- Desenvolvimento de APIs RESTful
+- Tecnologias emergentes
+
+## 🔗 Conecte-se comigo:
+[LinkedIn](https://www.linkedin.com/in/seunome) | [Twitter](https://twitter.com/seunome) | [Portfólio](https://seuportfolio.com)
+
