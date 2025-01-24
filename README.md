@@ -1,16 +1,14 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o Lucas Gabriel 👋
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras! 🚀
+Sou um desenvolvedor apaixonado por criar soluções inovadoras e criativas! 🚀
 
 ## 🌱 Atualmente estou aprendendo:
-- Desenvolvimento Full Stack
-- Algoritmos e Estruturas de Dados
+- Desenvolvimento Mobile
 
-## 💬 Fale comigo sobre:
-- JavaScript, React, Node.js
-- Desenvolvimento de APIs RESTful
-- Tecnologias emergentes
+## 💬 Utilizo as seguintes tecnologias:
+- Typescript, React, Node.js e NextJs
+- Figma, Photoshop e After Effects
 
 ## 🔗 Conecte-se comigo:
-[LinkedIn](https://www.linkedin.com/in/seunome) | [Twitter](https://twitter.com/seunome) | [Portfólio](https://seuportfolio.com)
-
+<a href="https://www.linkedin.com/in/nickolas-gon%C3%A7alves-7743b2196" target="_blank" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-santos-341856247/" /></a>
