@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e criativas! �
 - Desenvolvimento Mobile
 
 ## 💬 Utilizo as seguintes tecnologias:
-- Typescript, React, Node.js e NextJs
+- Typescript, React, NextJs, Javascript e TailwindCSS
 - Figma, Photoshop e After Effects
 
 ## 🔗 Conecte-se comigo:
