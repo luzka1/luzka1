@@ -3,7 +3,7 @@
 Sou um desenvolvedor apaixonado por criar soluções inovadoras e criativas! 🚀
 
 ## 🌱 Atualmente estou aprendendo:
-- Desenvolvimento Mobile
+- Desenvolvimento BackEnd (C#, .NET)
 
 ## 💬 Utilizo as seguintes tecnologias:
 - Typescript, React, NextJs, Javascript e TailwindCSS
